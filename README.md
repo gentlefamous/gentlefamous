@@ -1,15 +1,15 @@
 # Hi, I'm Lukmon Ishola 👋
 
-I’m a data engineer focused on building reliable, end-to-end data platforms on Azure and Databricks.
+I’m a data engineer focused on building reliable, end-to-end data pipelines and analytics platforms.
 
-I enjoy turning raw operational data into well-modelled, tested, and decision-ready analytics products.
+I work with Python, SQL, Azure Data Lake, dbt, and orchestration tools to turn raw operational data into well-modelled, tested analytics datasets.
 
 ## 🔭 Current focus
 
-- Building production-style data pipelines with Python, SQL, PySpark, dbt, and Airflow
-- Designing lakehouse architectures using Azure Data Lake and Databricks
+- Building end-to-end data pipelines for Belgian rail-delay analytics
+- Developing ingestion, transformation, and orchestration workflows
 - Applying infrastructure as code, CI/CD, testing, and data-quality practices
-- Developing AI and NLP applications through targeted portfolio projects
+- Documenting architecture, setup instructions, and engineering decisions
 
 ## 🚂 Featured project
 
